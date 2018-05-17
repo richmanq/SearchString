@@ -1,0 +1,7 @@
+c:\users\richlap\documents\visual studio 2017\Projects\SearchString\SearchString\bin\Debug\SearchString.exe.config
+c:\users\richlap\documents\visual studio 2017\Projects\SearchString\SearchString\bin\Debug\SearchString.exe
+c:\users\richlap\documents\visual studio 2017\Projects\SearchString\SearchString\bin\Debug\SearchString.pdb
+c:\users\richlap\documents\visual studio 2017\Projects\SearchString\SearchString\obj\Debug\SearchString.csprojResolveAssemblyReference.cache
+c:\users\richlap\documents\visual studio 2017\Projects\SearchString\SearchString\obj\Debug\SearchString.exe
+c:\users\richlap\documents\visual studio 2017\Projects\SearchString\SearchString\obj\Debug\SearchString.pdb
+c:\users\richlap\documents\visual studio 2017\Projects\SearchString\SearchString\bin\Debug\MyStrings.txt
